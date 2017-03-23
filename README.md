@@ -1,3 +1,2 @@
 # ICDownloader
-A asynchronous downloader 
-use NSURLSession 
+A asynchronous downloader using NSURLSession
